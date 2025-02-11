@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>202551693930S KAMALI BAI </name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>77.5626963749528,16.81481821623224,0.0 77.56268262863159,16.81431915185355,0.0 77.56272789090872,16.813869190432317,0.0 77.56329752504826,16.813837738024855,0.0 77.56326869130135,16.81435862773328,0.0 77.56320733577013,16.81490807977502,0.0 77.5631432980299,16.814903265657733,0.0 77.56307289004326,16.814924768713976,0.0 77.5629485026002,16.814899093422653,0.0 77.5626963749528,16.81481821623224,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

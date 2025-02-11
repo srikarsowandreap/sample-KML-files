@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>204054504666 mallagani sadaiah Roopnarayana peta</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.48719441890717,18.398762533210302,0.0 79.48749516159296,18.398700814473873,0.0 79.48753070086241,18.39896773194306,0.0 79.48777880519629,18.398917148092114,0.0 79.48789816349745,18.39935490470022,0.0 79.48802925646305,18.399870285327392,0.0 79.48766145855188,18.399935821271924,0.0 79.48729164898396,18.399992767533586,0.0 79.48723699897528,18.39975162066532,0.0 79.4871960952878,18.39949933868582,0.0 79.48712099343538,18.39902881430932,0.0 79.48708344250917,18.398906013280165,0.0 79.48719441890717,18.398762533210302,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

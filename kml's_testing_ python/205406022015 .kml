@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>205406022015
+salpala mahender
+motlapalli</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.57439504563808,18.47120028971481,0.0 79.57627728581429,18.470795152501932,0.0 79.57630679011345,18.471212691859296,0.0 79.5751504227519,18.471428934234357,0.0 79.57516852766275,18.47157966772867,0.0 79.57457307726145,18.471675704611666,0.0 79.57439504563808,18.47120028971481,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>205130027914 kusa radamma ushannapalli</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.51276425272226,18.507513103334613,0.0 79.51259560883045,18.50736589875082,0.0 79.51329499483109,18.5069179254913,0.0 79.51338350772858,18.507068945706244,0.0 79.51372817158699,18.506851476554516,0.0 79.51376270502806,18.506952580668198,0.0 79.5138495415449,18.506956395916596,0.0 79.51389480382204,18.50707943763202,0.0 79.51408188790083,18.507515964761545,0.0 79.5138019323349,18.50768574267438,0.0 79.51349850744009,18.50785933564708,0.0 79.51335735619068,18.50757955201454,0.0 79.51331410557032,18.507602443419835,0.0 79.51322592794895,18.507429486059575,0.0 79.5131266862154,18.507296906494116,0.0 79.51276425272226,18.507513103334613,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

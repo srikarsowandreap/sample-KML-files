@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>203492890141 Mandala sadaiah Roopnarayanapet</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.4690315052867,18.401328931397817,0.0 79.46906268596649,18.40178704233638,0.0 79.4686184450984,18.401846851174533,0.0 79.46857083588839,18.401226174401927,0.0 79.46884207427502,18.401217584805057,0.0 79.4688430801034,18.401338157255132,0.0 79.4690315052867,18.401328931397817,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

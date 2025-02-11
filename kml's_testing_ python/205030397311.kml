@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>vanga rajitha 205030397311</name>
+      <description>pothkapalli</description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.46141973137856,18.42133897163944,0.0 79.46108277887106,18.421571181589954,0.0 79.46074046194553,18.4216853778753,0.0 79.46069620549679,18.42161157972742,0.0 79.46031231433153,18.421080041270198,0.0 79.46050878614187,18.420960436938564,0.0 79.46069050580263,18.42086341740633,0.0 79.46097113192081,18.421159565380833,0.0 79.46115653961897,18.421085448910894,0.0 79.46141973137856,18.42133897163944,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

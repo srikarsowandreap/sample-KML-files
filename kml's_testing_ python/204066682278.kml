@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>204066682278 komju odelu pandilla</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.49093107134104,18.46581449423173,0.0 79.49106249958277,18.46586760251139,0.0 79.4911540299654,18.465954420202635,0.0 79.49121035635471,18.46603551361081,0.0 79.49120432138443,18.46611597095438,0.0 79.49111614376307,18.4660962541385,0.0 79.49105311185122,18.46612169519082,0.0 79.4910266250372,18.466180527609893,0.0 79.49097063392401,18.466201516468022,0.0 79.49077282100916,18.46611978711204,0.0 79.49067324399948,18.466128373466447,0.0 79.49064005166292,18.465727994483558,0.0 79.49070274829865,18.465724814344917,0.0 79.49082311242819,18.465771562376865,0.0 79.49093107134104,18.46581449423173,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

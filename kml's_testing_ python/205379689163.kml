@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>205379689163	TUKYA NAIK</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>77.56918765604496,16.81654198411939,0.0 77.56918296217918,16.81604998494113,0.0 77.56945889443159,16.81602398886292,0.0 77.56959468126297,16.816044208035162,0.0 77.56967280060053,16.816060254995733,0.0 77.56976701319218,16.816064427205255,0.0 77.56977673619986,16.816143699168755,0.0 77.56977003067732,16.816229068938544,0.0 77.56980992853642,16.816423557819384,0.0 77.56950248032808,16.816504434324962,0.0 77.56918765604496,16.81654198411939,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

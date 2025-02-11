@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF50AF4C">
+      <LineStyle>
+        <color>FF50AF4C</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8050AF4C</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>203132027973Mengani PonnammaMangapet</name>
+      <description></description>
+      <styleUrl>#fields_FF50AF4C</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>79.47470840066671,18.528574770824708,0.0 79.47480797767639,18.52878394704513,0.0 79.4749166071415,18.52896228705526,0.0 79.4749752804637,18.5290738686782,0.0 79.4750252366066,18.529167330152486,0.0 79.47507854551077,18.529259837887935,0.0 79.47512581944466,18.52935584242643,0.0 79.47482608258724,18.52958854194501,0.0 79.4747295230627,18.529337086577108,0.0 79.47465945035219,18.52913585843725,0.0 79.47459675371647,18.529052251731294,0.0 79.47453875094652,18.528957836504688,0.0 79.4744036346674,18.528748024703294,0.0 79.47450891137123,18.52867904106993,0.0 79.47458870708942,18.528635171279387,0.0 79.47470840066671,18.528574770824708,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

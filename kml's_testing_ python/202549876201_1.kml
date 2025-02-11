@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="fields_FF00FF00">
+      <LineStyle>
+        <color>FF00FF00</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>8000FF00</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>202549876201	RAJU NAIK</name>
+      <description></description>
+      <styleUrl>#fields_FF00FF00</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>77.55495619028807,16.797249075748496,0.0 77.55595028400421,16.797266087212083,0.0 77.55585204809904,16.798156779638465,0.0 77.5555969029665,16.798272970558497,0.0 77.55537126213312,16.798312128808334,0.0 77.55514997988939,16.798027749859386,0.0 77.5550064817071,16.797964839786026,0.0 77.55495619028807,16.797249075748496,0.0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
